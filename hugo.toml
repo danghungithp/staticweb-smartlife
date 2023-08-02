@@ -1,4 +1,2 @@
-baseURL = 'https://danghungithp.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+hugo --config debugconfig.toml
+hugo --config a.toml,b.toml,c.toml
